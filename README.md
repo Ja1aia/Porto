@@ -4,9 +4,10 @@ Explore a compilation of projects that vividly illustrate my dedication to the e
 
 Key Highlights:
 
-Software Development:
+# 1. Software Development:
 
 Immerse yourself in projects that showcase my proficiency as a software developer. Witness the code craftsmanship and problem-solving skills embedded in each creation.
-Machine Learning Enthusiasm:
+
+# 2. Machine Learning Enthusiasm:
 
 Delve into my passion for machine learning, where algorithms come to life. Uncover projects that reflect my exploration of cutting-edge technologies and innovative solutions.
