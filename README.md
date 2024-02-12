@@ -6,8 +6,8 @@ Key Highlights:
 
 # 1. Software Development:
 
-Immerse yourself in projects that showcase my proficiency as a software developer. Witness the code craftsmanship and problem-solving skills embedded in each creation.
+Dive into projects that unveil my expertise as a software developer. Explore the meticulous craftsmanship and problem-solving finesse intricately woven into each creation, spanning the dynamic realms of full-stack web development and mobile programming using Android Studio.
 
 # 2. Machine Learning Enthusiasm:
 
-Delve into my passion for machine learning, where algorithms come to life. Uncover projects that reflect my exploration of cutting-edge technologies and innovative solutions.
+Embark on a journey through my passion for machine learning, where algorithms come to life. Explore projects that illuminate my exploration of cutting-edge technologies and innovative solutions, particularly in Natural Language Processing (NLP) and Computer Vision. Witness the power of TensorFlow and Keras as I harness these tools to unlock the potential of language and vision in the realm of artificial intelligence.
